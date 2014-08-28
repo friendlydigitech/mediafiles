@@ -4,6 +4,8 @@
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<script>
+	var Slide_Set_Obj;
+
 		function getJson(url, callback) {
 			var request = new XMLHttpRequest();
 			request.open("GET", url);
@@ -20,7 +22,7 @@
 
 		function get_json_data(response) {
 			console.log("get_json_data()...runs!");
-			var Slide_Set_Obj = JSON.parse ( response );
+			Slide_Set_Obj = JSON.parse ( response );
 		}		
 	</script>
 </head>
