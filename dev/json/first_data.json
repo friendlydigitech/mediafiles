@@ -1,0 +1,22 @@
+{
+  "Slide_Set": [
+    {
+      "Slide1": {
+        "Frame": {
+          "name": "Content_A_002.jpg",
+          "url": "http://friendlydigitech.github.io/mediafiles/dev/images/0825/Content_A/Content_A_002.jpg"
+        }
+      },
+      "config_value": "string_1"
+    },
+    {
+      "Slide2": {
+        "Frame": {
+          "name": "Content_A_003.jpg",
+          "url": "http://friendlydigitech.github.io/mediafiles/dev/images/0825/Content_A/Content_A_003.jpg"
+        }
+      },
+      "config_value": "string_2"
+    }
+  ]
+}
